@@ -1,0 +1,4 @@
+Ram,Thombare,ram@gmail.com,7586603316,250.0,Password1@,1025362845
+Krutika,Pawar,krutika@gmail.com,7760593605,100.0,Krutika12@,1025362846
+Mansi,Pawar,mansi@gmail.com,9876543210,950.0,Mansi12@,3130528064Krutika,Pawar,ram1@gmail.com,09967346284,500,Password1@,9502161048
+Krutika,Pawar,krutika1@gmail.com,09967346284,550.0,Password1@,8519218190
